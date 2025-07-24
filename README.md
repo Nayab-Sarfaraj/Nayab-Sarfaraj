@@ -29,4 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nayab-sarfaraj&show_icons=true&locale=en" alt="nayab-sarfaraj" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nayab-sarfaraj&" alt="nayab-sarfaraj" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nayab_Sarfaraj&" alt="nayab-sarfaraj" /></p>
