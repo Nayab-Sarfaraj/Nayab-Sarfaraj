@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Django & Spring Boot to expand my backend development skills**
 
-- 💬 Ask me about **Full Stack Development, MERN Stack, React Native, DSA, Web Scraping, API Integration, AI Automation**
+- 💬 Ask me about **Full Stack Development, MERN Stack, React Native, DSA, Web Scraping, API Integration, AI Integration**
 
 - 📫 How to reach me **nayabsarfaraj@gmail.com**
 
