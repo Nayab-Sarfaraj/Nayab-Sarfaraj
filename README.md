@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nayab-sarfaraj" alt="nayab-sarfaraj" /></a> </p>
 
-- 🌱 I’m currently learning **Django & Spring Boot to expand my backend development skills**
+- 🌱 I’m currently learning **React Native **
 
 - 💬 Ask me about **Full Stack Development, MERN Stack, React Native, DSA, Web Scraping, API Integration, AI Integration**
 
