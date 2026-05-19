@@ -27,12 +27,11 @@ AI-powered automation pipelines in React Native + Node.js.
 | [ShopSync](https://github.com/Nayab-Sarfaraj/shop-sync) | Real-time e-commerce price comparison with Puppeteer scraping | React · Express · Puppeteer · Razorpay |
 
 ---
-
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nayab-Sarfaraj&show_icons=true&theme=tokyonight&hide_border=true" />
+![Nayab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nayab-Sarfaraj&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayab-Sarfaraj&layout=compact&theme=tokyonight&hide_border=true" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nayab-Sarfaraj&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 ---
 
 ## 📫 Let's Connect
