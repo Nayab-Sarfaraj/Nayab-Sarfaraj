@@ -30,9 +30,9 @@ AI-powered automation pipelines in React Native + Node.js.
 
 ## 📊 GitHub Stats
 
-![Nayab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nayab-Sarfaraj&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nayab-Sarfaraj&layout=compact&theme=tokyonight&hide_border=true)
+![Nayab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nayab-Sarfaraj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nayab-Sarfaraj&layout=compact&theme=tokyonight&hide_border=true)
 ---
 
 ## 📫 Let's Connect
