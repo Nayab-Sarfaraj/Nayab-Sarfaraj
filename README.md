@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm Nayab Sarfaraj</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN & React Native | DSA Enthusiast | Scalable Web & AI Apps</h3>
+## Hi 👋, I'm Nayab Sarfaraj
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nayab-sarfaraj&label=Profile%20views&color=0e75b6&style=flat" alt="nayab-sarfaraj" /> </p>
+🚀 Full Stack Engineer · MERN · React Native · LLM Integrations
 
+Currently building production systems at **Byldd** (US-based SaaS startup) —
+shipped Google Navigation SDK integration, KYC onboarding flows, and 
+AI-powered automation pipelines in React Native + Node.js.
 
-- 🌱 I’m currently learning GEN AI
+**Ask me about:** MERN Stack · React Native · Agentic Pipelines · 
+Gemini API · Inngest · System Design
 
-- 💬 Ask me about **Full Stack Development, MERN Stack, React Native, DSA, Web Scraping, API Integration, AI Integration**
-
-- 📫 How to reach me **nayabsarfaraj@gmail.com**
+📫 nayabsarfaraj@gmail.com
