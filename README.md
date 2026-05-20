@@ -24,7 +24,7 @@ AI-powered automation pipelines in React Native + Node.js.
 | [Auto AI Shorts](https://github.com/Nayab-Sarfaraj/ai-youtube-shorts-backend) | Automated prompt → video pipeline using LLM + Inngest | Node.js · Gemini · Remotion · Inngest |
 | [Calendar AI](https://github.com/Nayab-Sarfaraj/calendar-ai) | Google Calendar + Gemini AI event summaries with streaming UI | Next.js · Supabase · Gemini |
 | [ShopSync](https://github.com/Nayab-Sarfaraj/shop-sync) | Real-time e-commerce price comparison with Puppeteer scraping | React · Express · Puppeteer · Razorpay |
-| [Meta Blogs](https://github.com/Nayab-Sarfaraj/meta-blogs) | Full-stack blog platform with JWT auth, Cloudinary uploads, and search | React · Node.js · MongoDB · Cloudinary |
+| [Meta Blogs](https://github.com/Nayab-Sarfaraj/meta-blog) | Full-stack blog platform with JWT auth, Cloudinary uploads, and search | React · Node.js · MongoDB · Cloudinary |
 
 ---
 
