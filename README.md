@@ -20,7 +20,8 @@ Currently building at **Byldd** — shipped Google Navigation SDK integration, K
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [PixlAI](PLAY_STORE_LINK_HERE) 📱 | AI photo editing app (background removal, HD/face enhance, restore) — live on Play Store with RevenueCat subscriptions | React Native · Gemini · RevenueCat |
+| [PixlAI](https://github.com/Nayab-Sarfaraj/PixlAI) 📱 | AI photo editing app (background removal, HD/face enhance, restore) — live on Play Store with RevenueCat subscriptions | React Native · Gemini · RevenueCat |
+| [Instacap](https://getinstacap.com/) | Auto caption generator for video — transcription + rendering pipeline | Next.js · Deepgram · Remotion · BullMQ |
 | [Auto AI Shorts](https://github.com/Nayab-Sarfaraj/ai-youtube-shorts-backend) | Automated prompt → video pipeline using LLM + Inngest | Node.js · Gemini · Remotion · Inngest |
 | [Calendar AI](https://github.com/Nayab-Sarfaraj/calendar-ai) | Google Calendar + Gemini AI event summaries with streaming UI | Next.js · Supabase · Gemini |
 | [ShopSync](https://github.com/Nayab-Sarfaraj/shop-sync) | Real-time e-commerce price comparison with Puppeteer scraping | React · Express · Puppeteer · Razorpay |
