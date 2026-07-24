@@ -1,9 +1,8 @@
 # Hi 👋, I'm Nayab Sarfaraj
-🚀 Full Stack Engineer · MERN · React Native · LLM Integrations
 
-Currently building production systems at **Byldd** (US-based SaaS startup) —
-shipped Google Navigation SDK integration, KYC onboarding flows, and
-AI-powered automation pipelines in React Native + Node.js.
+🚀 I ship AI-native products solo — from idea to Play Store — and build production systems at a US-based SaaS startup.
+
+Currently building at **Byldd** — shipped Google Navigation SDK integration, KYC onboarding flows, and AI-powered automation pipelines in React Native + Node.js.
 
 ---
 
@@ -21,6 +20,7 @@ AI-powered automation pipelines in React Native + Node.js.
 
 | Project | Description | Stack |
 |--------|-------------|-------|
+| [PixlAI](PLAY_STORE_LINK_HERE) 📱 | AI photo editing app (background removal, HD/face enhance, restore) — live on Play Store with RevenueCat subscriptions | React Native · Gemini · RevenueCat |
 | [Auto AI Shorts](https://github.com/Nayab-Sarfaraj/ai-youtube-shorts-backend) | Automated prompt → video pipeline using LLM + Inngest | Node.js · Gemini · Remotion · Inngest |
 | [Calendar AI](https://github.com/Nayab-Sarfaraj/calendar-ai) | Google Calendar + Gemini AI event summaries with streaming UI | Next.js · Supabase · Gemini |
 | [ShopSync](https://github.com/Nayab-Sarfaraj/shop-sync) | Real-time e-commerce price comparison with Puppeteer scraping | React · Express · Puppeteer · Razorpay |
