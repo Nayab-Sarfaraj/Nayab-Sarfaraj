@@ -34,7 +34,7 @@ Currently building at **Byldd** — shipped Google Navigation SDK integration, K
 - 🔭 Currently working at **Byldd** — production React Native + Node.js + Next.js
 - 🤖 Building AI pipelines with Gemini, Inngest, ElevenLabs, Replicate
 - 🌱 Exploring LangChain and agentic systems
-- 💬 208+ contributions in the last year
+
 
 ---
 
