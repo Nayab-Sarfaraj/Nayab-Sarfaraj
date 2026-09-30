@@ -4,39 +4,7 @@
 
 Currently building at **Byldd** — shipped Google Navigation SDK integration, KYC onboarding flows, and AI-powered automation pipelines in React Native + Node.js.
 
----
 
-## 🛠️ Tech Stack
-
-**Frontend:** React · React Native · Next.js · TypeScript  
-**Backend:** Node.js · Express.js · REST APIs · JWT · Zod  
-**Database:** MongoDB · PostgreSQL · Supabase  
-**AI & Async:**  Inngest · LangChain (learning)  
-**Tools:** Git · Postman · Cloudinary · Razorpay · Cursor  
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [PixlAI](https://github.com/Nayab-Sarfaraj/PixlAI) 📱 | AI photo editing app (background removal, HD/face enhance, restore) — live on Play Store with RevenueCat subscriptions | React Native · LLM · RevenueCat |
-| [Instacap](https://getinstacap.com/) | Auto caption generator for video — transcription + rendering pipeline | Next.js · Deepgram · Remotion · BullMQ |
-| [Auto AI Shorts](https://github.com/Nayab-Sarfaraj/ai-youtube-shorts-backend) | Automated prompt → video pipeline using LLM + Inngest | Node.js · LLM · Remotion · Inngest |
-| [Calendar AI](https://github.com/Nayab-Sarfaraj/calendar-ai) | Google Calendar + LLM AI event summaries with streaming UI | Next.js · Supabase · LLM |
-| [ShopSync](https://github.com/Nayab-Sarfaraj/shop-sync) | Real-time e-commerce price comparison with Puppeteer scraping | React · Express · Puppeteer · Razorpay |
-| [Meta Blogs](https://github.com/Nayab-Sarfaraj/meta-blog) | Full-stack blog platform with JWT auth, Cloudinary uploads, and search | React · Node.js · MongoDB · Cloudinary |
-
----
-
-## 📊 Activity
-
-- 🔭 Currently working at **Byldd** — production React Native + Node.js + Next.js
-- 🤖 Building AI pipelines with  LLM, Inngest, ElevenLabs, Replicate
-- 🌱 Exploring LangChain and agentic systems
-
-
----
 
 ## 📫 Let's Connect
 
