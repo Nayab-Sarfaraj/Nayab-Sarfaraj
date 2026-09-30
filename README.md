@@ -1,8 +1,6 @@
 # Hi 👋, I'm Nayab Sarfaraj
 
-🚀 I ship AI-native products solo — from idea to Play Store — and build production systems at a US-based SaaS startup.
 
-Currently building at **Byldd** — shipped Google Navigation SDK integration, KYC onboarding flows, and AI-powered automation pipelines in React Native + Node.js.
 
 
 
