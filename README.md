@@ -43,12 +43,6 @@ UPTIME: 44 repos and counting
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayab-Sarfaraj&layout=compact&theme=dark&title_color=00ff41&text_color=00ff41&bg_color=0d1117&border_color=00ff41" height="130" />
 </p>
 
-### $ tail -f ./activity.log
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nayab-Sarfaraj&theme=github-compact&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true" width="100%" />
-</p>
-
 ### $ ssh nayab@connect
 
 <p align="center">
