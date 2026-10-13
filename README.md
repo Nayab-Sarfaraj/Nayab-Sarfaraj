@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:001100&height=140&section=header&text=N4Y4B.S4RF4R4J&fontSize=42&fontColor=00ff41&animation=fadeIn&fontAlignY=35&desc=%3E_still_debugging...&descAlignY=58&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:001100&height=140&section=header&text=NAYAB.SARFARAJ&fontSize=42&fontColor=00ff41&animation=fadeIn&fontAlignY=35&desc=%3E_still_debugging...&descAlignY=58&descSize=16" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=700&color=00FF41&background=00000000&center=true&vCenter=true&width=620&lines=%3E+whoami:+nayab-sarfaraj;Full-Stack+Engineer+@+Byldd;React-Native+%2F%2F+Next.js+%2F%2F+FastAPI;agentic+pipelines+in+production;44+repos.+0+excuses." alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=700&color=00FF41&background=00000000&center=true&vCenter=true&width=620&lines=%3E+whoami:+nayab-sarfaraj;Full-Stack+Engineer;React-Native+%2F%2F+Next.js+%2F%2F+FastAPI;agentic+pipelines+in+production;44+repos.+0+excuses." alt="typing" />
 </p>
 
 <p align="center">
