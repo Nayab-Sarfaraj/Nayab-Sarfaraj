@@ -8,7 +8,7 @@
     <text x="22" y="62" fill="#00FF41" font-weight="bold">nayab@github</text>
     <text x="22" y="88" fill="#00FF41" opacity="0.5">-------------------------</text>
     <text x="22" y="114"><tspan fill="#00FF41" font-weight="bold">OS: </tspan><tspan fill="#FFFFFF">prod-or-die</tspan></text>
-    <text x="22" y="140"><tspan fill="#00FF41" font-weight="bold">ROLE: </tspan><tspan fill="#FFFFFF">Software Engineer @ Byldd</tspan></text>
+    <text x="22" y="140"><tspan fill="#00FF41" font-weight="bold">ROLE: </tspan><tspan fill="#FFFFFF">Software Engineer</tspan></text>
     <text x="22" y="166"><tspan fill="#00FF41" font-weight="bold">STACK: </tspan><tspan fill="#FFFFFF">RN - Next.js - TS - FastAPI - BullMQ/Redis - Inngest</tspan></text>
     <text x="22" y="192"><tspan fill="#00FF41" font-weight="bold">FOCUS: </tspan><tspan fill="#FFFFFF">LangGraph - pgvector - AI video pipelines</tspan></text>
     <text x="22" y="218"><tspan fill="#00FF41" font-weight="bold">SHELL: </tspan><tspan fill="#FFFFFF">zsh + caffeine</tspan></text>

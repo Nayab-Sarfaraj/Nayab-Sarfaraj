@@ -6,7 +6,7 @@
   <text x="680" y="28" font-family="monospace" font-size="12" fill="#00FF41" opacity="0.6">bash</text>
   <g font-family="'Fira Code', Consolas, Menlo, monospace" font-size="15">
     <text x="22" y="62"><tspan fill="#00FF41" font-weight="bold">root@nayab:~$</tspan><tspan fill="#FFFFFF"> whoami</tspan></text>
-    <text x="22" y="90"><tspan fill="#00FF41" font-weight="bold">&gt;</tspan><tspan fill="#FFFFFF"> Nayab Sarfaraj - Software Engineer @ Byldd</tspan></text>
+    <text x="22" y="90"><tspan fill="#00FF41" font-weight="bold">&gt;</tspan><tspan fill="#FFFFFF"> Nayab Sarfaraj - Software Engineer</tspan></text>
     <text x="22" y="118"><tspan fill="#00FF41" font-weight="bold">&gt;</tspan><tspan fill="#FFFFFF"> Full-Stack: React Native / Next.js / Node / FastAPI</tspan></text>
     <text x="22" y="146"><tspan fill="#00FF41" font-weight="bold">&gt;</tspan><tspan fill="#FFFFFF"> Focus: AI video + RAG pipelines that survive prod</tspan></text>
     <text x="22" y="174"><tspan fill="#00FF41" font-weight="bold">&gt;</tspan><tspan fill="#FFFFFF"> check pinned repos below - that is where the work lives</tspan><rect x="648" y="162" width="9" height="16" fill="#00FF41"><animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/></rect></text>
