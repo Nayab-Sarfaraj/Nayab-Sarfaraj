@@ -10,23 +10,13 @@
   <img src="https://img.shields.io/badge/STATUS-still_debugging-000000?style=flat-square&logoColor=00ff41&labelColor=black&color=00ff41" />
 </p>
 
-```ansi
-[32mroot@nayab:~$[0m whoami
-[32m>[0m Nayab Sarfaraj - Software Engineer @ Byldd
-[32m>[0m Full-Stack: React Native / Next.js / Node / FastAPI
-[32m>[0m Focus: AI video + RAG pipelines that survive prod
-[32m>[0m check pinned repos below - that's where the work lives
-```
+<p align="center">
+  <img src="./assets/terminal-whoami.svg" width="100%" />
+</p>
 
-```ansi
-[1;32mnayab@github[0m
-[2;32m-------------------------[0m
-[32mOS:[0m prod-or-die
-[32mROLE:[0m Software Engineer @ Byldd
-[32mSTACK:[0m RN - Next.js - TS - FastAPI - BullMQ/Redis - Inngest - LangGraph - pgvector
-[32mSHELL:[0m zsh + caffeine
-[32mUPTIME:[0m 44 repos and counting
-```
+<p align="center">
+  <img src="./assets/terminal-neofetch.svg" width="100%" />
+</p>
 
 ### $ ls ~/stack --icons
 
@@ -52,9 +42,8 @@
   <a href="mailto:nayabsarfaraj@gmail.com"><img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FF41" /></a>
 </p>
 
-```ansi
-[32mroot@nayab:~$[0m exit
-[32m>[0m session saved. still debugging...
-```
+<p align="center">
+  <img src="./assets/terminal-exit.svg" width="100%" />
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:001100&height=120&section=footer" width="100%" />

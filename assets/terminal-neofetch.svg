@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="255" viewBox="0 0 800 255">
+  <rect x="1" y="1" width="798" height="253" rx="8" fill="#0D1117" stroke="#00FF41" stroke-opacity="0.5" stroke-width="1.5"/>
+  <circle cx="28" cy="24" r="6" fill="#FF5F56"/>
+  <circle cx="50" cy="24" r="6" fill="#FFBD2E"/>
+  <circle cx="72" cy="24" r="6" fill="#27C93F"/>
+  <text x="665" y="28" font-family="monospace" font-size="12" fill="#00FF41" opacity="0.6">neofetch</text>
+  <g font-family="'Fira Code', Consolas, Menlo, monospace" font-size="15">
+    <text x="22" y="62" fill="#00FF41" font-weight="bold">nayab@github</text>
+    <text x="22" y="88" fill="#00FF41" opacity="0.5">-------------------------</text>
+    <text x="22" y="114"><tspan fill="#00FF41" font-weight="bold">OS: </tspan><tspan fill="#FFFFFF">prod-or-die</tspan></text>
+    <text x="22" y="140"><tspan fill="#00FF41" font-weight="bold">ROLE: </tspan><tspan fill="#FFFFFF">Software Engineer @ Byldd</tspan></text>
+    <text x="22" y="166"><tspan fill="#00FF41" font-weight="bold">STACK: </tspan><tspan fill="#FFFFFF">RN - Next.js - TS - FastAPI - BullMQ/Redis - Inngest</tspan></text>
+    <text x="22" y="192"><tspan fill="#00FF41" font-weight="bold">FOCUS: </tspan><tspan fill="#FFFFFF">LangGraph - pgvector - AI video pipelines</tspan></text>
+    <text x="22" y="218"><tspan fill="#00FF41" font-weight="bold">SHELL: </tspan><tspan fill="#FFFFFF">zsh + caffeine</tspan></text>
+    <text x="22" y="242"><tspan fill="#00FF41" font-weight="bold">UPTIME: </tspan><tspan fill="#FFFFFF">44 repos and counting</tspan></text>
+  </g>
+</svg>
