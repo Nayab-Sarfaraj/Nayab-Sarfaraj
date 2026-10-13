@@ -10,22 +10,22 @@
   <img src="https://img.shields.io/badge/STATUS-still_debugging-000000?style=flat-square&logoColor=00ff41&labelColor=black&color=00ff41" />
 </p>
 
-```
-root@nayab:~$ whoami
-> Nayab Sarfaraj — Software Engineer @ Byldd
-> Full-Stack: React Native / Next.js / Node / FastAPI
-> Focus: AI video + RAG pipelines that survive prod
-> check pinned repos below ↓ — that's where the work lives
+```ansi
+[32mroot@nayab:~$[0m whoami
+[32m>[0m Nayab Sarfaraj - Software Engineer @ Byldd
+[32m>[0m Full-Stack: React Native / Next.js / Node / FastAPI
+[32m>[0m Focus: AI video + RAG pipelines that survive prod
+[32m>[0m check pinned repos below - that's where the work lives
 ```
 
-```
-nayab@github
--------------------------
-OS: prod-or-die
-ROLE: Software Engineer @ Byldd
-STACK: RN · Next.js · TS · FastAPI · BullMQ/Redis · Inngest · LangGraph · pgvector
-SHELL: zsh + caffeine
-UPTIME: 44 repos and counting
+```ansi
+[1;32mnayab@github[0m
+[2;32m-------------------------[0m
+[32mOS:[0m prod-or-die
+[32mROLE:[0m Software Engineer @ Byldd
+[32mSTACK:[0m RN - Next.js - TS - FastAPI - BullMQ/Redis - Inngest - LangGraph - pgvector
+[32mSHELL:[0m zsh + caffeine
+[32mUPTIME:[0m 44 repos and counting
 ```
 
 ### $ ls ~/stack --icons
@@ -52,9 +52,9 @@ UPTIME: 44 repos and counting
   <a href="mailto:nayabsarfaraj@gmail.com"><img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FF41" /></a>
 </p>
 
-```
-root@nayab:~$ exit
-> session saved. still debugging...
+```ansi
+[32mroot@nayab:~$[0m exit
+[32m>[0m session saved. still debugging...
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:001100&height=120&section=footer" width="100%" />
