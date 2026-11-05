@@ -36,7 +36,7 @@
 ### $ ssh nayab@connect
 
 <p align="center">
-  <a href="https://portfolio-self-chi-m6v05x2bws.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=00FF41" /></a>
+  <!-- <a href="https://portfolio-self-chi-m6v05x2bws.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=00FF41" /></a> -->
   <a href="https://linkedin.com/in/nayab-sarfaraj-856a70258/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" /></a>
   <a href="https://x.com/NayabSarfaraj"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=00FF41" /></a>
   <a href="mailto:nayabsarfaraj@gmail.com"><img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FF41" /></a>
